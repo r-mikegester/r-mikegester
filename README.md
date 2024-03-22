@@ -1,4 +1,4 @@
-# ABOUT MIKE GESTER :wave:
+# MIKE GESTER :wave:
 <p align="center"> 
   VISITOR'S COUNT:<br>
   <img src="https://profile-counter.glitch.me/r.mikegester/count.svg" />

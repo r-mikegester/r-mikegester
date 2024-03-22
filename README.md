@@ -10,7 +10,7 @@
 
 ![r-mikegester's Streak](https://github-readme-streak-stats.herokuapp.com/?user=r-mikegester&theme=vue-dark&hide_border=false) 
 
-<p align="center"> 
+<p> 
  VISITOR'S COUNT:<br>
   <img src="https://profile-counter.glitch.me/r.mikegester/count.svg" /> 
 </p> 

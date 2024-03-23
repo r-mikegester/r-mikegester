@@ -2,13 +2,13 @@
 
 <p align="center">
   
-   ![r-mikegester's Stats](https://github-readme-stats.vercel.app/api?username=r-mikegester&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) ![r-mikegester's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r-mikegester&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![r-mikegester's Streak](https://github-readme-streak-stats.herokuapp.com/?user=r-mikegester&theme=vue-dark&hide_border=false) 
+  
+![r-mikegester's Stats](https://github-readme-stats.vercel.app/api?username=r-mikegester&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) 
+
+![r-mikegester's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r-mikegester&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 </p>
-
-<br>
-
-![r-mikegester's Streak](https://github-readme-streak-stats.herokuapp.com/?user=r-mikegester&theme=vue-dark&hide_border=false) 
 
 <p> 
  VISITOR'S COUNT:<br>

@@ -13,7 +13,7 @@
 </div>
 
 </div>
-
+<a href="https://app.daily.dev/mikegester"><img src="https://api.daily.dev/devcards/v2/xZ8K25qn1Ei4hiR8Z4Di6.png?type=wide&r=0v6" width="652" alt="Mike Gester's Dev Card"/></a>
 
 CURRENT PERSONAL WEBSITE: 
 ```
